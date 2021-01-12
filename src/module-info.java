@@ -1,0 +1,2 @@
+module jedi_java {
+}
